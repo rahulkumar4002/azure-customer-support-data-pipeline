@@ -105,10 +105,8 @@ azure-customer-support-data-pipeline/
 │   └── 06_Output.png
 │
 ├── architecture/
-│   └── architecture.png
-│
-└── docs/
-    └── project_report.pdf
+   └── architecture.png
+
 ```
 
 ---
